@@ -47,4 +47,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: muralisocial123/e-commerce-cart:${{ steps.validate.outputs.tag }}
+          tags: jslearn25-commits/e-commerce-cart:${{ steps.validate.outputs.tag }}
